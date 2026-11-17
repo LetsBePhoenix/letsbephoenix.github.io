@@ -1,0 +1,26 @@
+{
+  "id": "brauner",
+  "name": "Brauner",
+  "price": 250,
+  "description": "Braunes Fell mit schwarzem Langhaar und dunklen Beinen.",
+  "colors": {
+    "coat": "#6b3b22",
+    "mane": "#1c1514"
+  },
+  "face": "star",
+  "legs": {
+    "socks": "none",
+    "dark": true,
+    "feather": false
+  },
+  "pattern": {
+    "type": "none"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "palomino",
+  "name": "Palomino",
+  "price": 1300,
+  "description": "Goldenes Fell, helles Langhaar, weiße Vorderbeine.",
+  "colors": {
+    "coat": "#d9ad5b",
+    "mane": "#f4ecd8"
+  },
+  "face": "blaze",
+  "legs": {
+    "socks": "front",
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "none"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "schimmel",
+  "name": "Apfelschimmel",
+  "price": 800,
+  "description": "Grauschimmel mit Apfelung.",
+  "colors": {
+    "coat": "#d8d4cc",
+    "mane": "#8f8a84"
+  },
+  "face": "none",
+  "legs": {
+    "socks": "none",
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "dapple",
+    "color": "#8f8a84"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}

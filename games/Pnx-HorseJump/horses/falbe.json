@@ -1,0 +1,27 @@
+{
+  "id": "falbe",
+  "name": "Falbe",
+  "price": 1000,
+  "description": "Gelbfalbe mit Aalstrich und dunklen Beinen.",
+  "colors": {
+    "coat": "#c9a466",
+    "mane": "#2a211b"
+  },
+  "face": "none",
+  "legs": {
+    "socks": "none",
+    "dark": true,
+    "feather": false
+  },
+  "pattern": {
+    "type": "stripe",
+    "color": "#2a211b"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "einhorn",
+  "name": "Einhorn",
+  "price": 5000,
+  "description": "Mit Horn und zweifarbiger Mähne.",
+  "colors": {
+    "coat": "#f4f0ea",
+    "mane": "#e7a6cf",
+    "mane2": "#9fc0d6"
+  },
+  "face": "none",
+  "legs": {
+    "socks": "none",
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "none"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": true
+  }
+}

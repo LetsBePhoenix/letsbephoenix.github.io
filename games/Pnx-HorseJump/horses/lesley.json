@@ -1,0 +1,96 @@
+{
+  "id": "lesley",
+  "name": "Lesley",
+  "price": 4000,
+  "rarity": "legend",
+  "description": "Legendär: grauer Schecke mit schwarzem Kopf und Hals, breiter weißer Blesse und Platten an Rumpf und Hinterhand. Heller Schweif mit dunkler Spitze.",
+  "colors": {
+    "coat": "#d8d4cc",
+    "mane": "#1b1716",
+    "tail": "#d8d4cc",
+    "tailTip": "#2a2422",
+    "hoof": "#cfc2ad"
+  },
+  "face": "star",
+  "legs": {
+    "socks": {
+      "fn": false,
+      "ff": false,
+      "hn": false,
+      "hf": false
+    },
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "none",
+    "color": "#151313"
+  },
+  "regions": {
+    "head": "#191615"
+  },
+  "marks": [
+    {
+      "x": 34,
+      "y": -16,
+      "w": 21,
+      "h": 44,
+      "rotation": 22,
+      "color": "#191615",
+      "shape": "wavy",
+      "seed": 31,
+      "note": "Kehle & vorderer Hals"
+    },
+    {
+      "x": 31,
+      "y": 4,
+      "w": 20,
+      "h": 24,
+      "rotation": 0,
+      "color": "#191615",
+      "shape": "wavy",
+      "seed": 32,
+      "note": "Brust & Schulter"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "w": 13,
+      "h": 17,
+      "rotation": -8,
+      "color": "#191615",
+      "shape": "wavy",
+      "seed": 33,
+      "note": "Fleck hinter der Schulter"
+    },
+    {
+      "x": -23,
+      "y": -1,
+      "w": 19,
+      "h": 30,
+      "rotation": -6,
+      "color": "#191615",
+      "shape": "wavy",
+      "seed": 34,
+      "note": "Hinterhand"
+    },
+    {
+      "x": 38,
+      "y": -37,
+      "w": 53.5,
+      "h": 34,
+      "rotation": 116,
+      "color": "#151313",
+      "shape": "frayed",
+      "seed": 84173,
+      "note": "Hals & Kopfansatz"
+    }
+  ],
+  "extras": {
+    "braids": false,
+    "longTail": true,
+    "horn": false
+  },
+  "shading": 0.7,
+  "paintImage": "lesley.png"
+}

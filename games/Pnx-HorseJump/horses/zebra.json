@@ -1,0 +1,27 @@
+{
+  "id": "zebra",
+  "name": "Zebra-Pony",
+  "price": 3000,
+  "description": "Ein Pony im Zebra-Kostüm.",
+  "colors": {
+    "coat": "#f1ece2",
+    "mane": "#1d1a19"
+  },
+  "face": "none",
+  "legs": {
+    "socks": "none",
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "zebra",
+    "color": "#1d1a19"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}

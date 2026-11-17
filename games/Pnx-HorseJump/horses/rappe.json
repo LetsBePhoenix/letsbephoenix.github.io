@@ -1,0 +1,26 @@
+{
+  "id": "rappe",
+  "name": "Rappe",
+  "price": 500,
+  "description": "Tiefschwarz mit Stern und weißen Hinterbeinen.",
+  "colors": {
+    "coat": "#2a2422",
+    "mane": "#0f0d0c"
+  },
+  "face": "star",
+  "legs": {
+    "socks": "hind",
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "none"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}

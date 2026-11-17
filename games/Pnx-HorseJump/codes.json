@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "info": "Gutscheincodes für den Stall. Gespeichert wird nur die SHA-256-Prüfsumme von \"sts:\" + CODE (Code in Großbuchstaben, nur A–Z und 0–9, Ä→AE, Ö→OE, Ü→UE, ß→SS). Belohnungen: points (amount), horse (id), pad (id), saddle (id), bridle (id = Trense). \"until\" = letzter gültiger Tag (optional).",
+  "codes": [
+    {
+      "hash": "74cfcd8bb5f6decad85b674ef174a8bc71b2318bce1796ad89da319164a13bca",
+      "label": "Lesley zieht bei dir ein",
+      "rewards": [
+        {
+          "type": "horse",
+          "id": "lesley"
+        }
+      ]
+    }
+  ]
+}

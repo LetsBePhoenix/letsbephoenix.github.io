@@ -1,0 +1,79 @@
+{
+  "id": "tinker",
+  "name": "Tinker",
+  "price": 2000,
+  "description": "Rappschecke (Piebald) im Tinker-Typ: Kopf und Hals schwarz, Rumpf überwiegend weiß, Zöpfe und Fesselbehang.",
+  "colors": {
+    "coat": "#f3efe7",
+    "mane": "#141212",
+    "tail": "#efe6d2",
+    "tailTip": "#9d988f",
+    "hoof": "#cdbfa8",
+    "ear": "#151313"
+  },
+  "face": "wideblaze",
+  "legs": {
+    "socks": "none",
+    "dark": false,
+    "feather": true
+  },
+  "pattern": {
+    "type": "none"
+  },
+  "regions": {
+    "head": "#151313",
+    "neck": "#151313"
+  },
+  "marks": [
+    {
+      "x": 32,
+      "y": -6,
+      "w": 25,
+      "h": 34,
+      "rotation": 0,
+      "color": "#151313",
+      "shape": "wavy",
+      "seed": 21,
+      "note": "Schulter & Brust"
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "w": 16,
+      "h": 10,
+      "rotation": 0,
+      "color": "#151313",
+      "shape": "wavy",
+      "seed": 22,
+      "note": "Bauch hinter der Schulter"
+    },
+    {
+      "x": -11,
+      "y": 7,
+      "w": 12,
+      "h": 9,
+      "rotation": 0,
+      "color": "#151313",
+      "shape": "wavy",
+      "seed": 23,
+      "note": "Flanke"
+    },
+    {
+      "x": -29,
+      "y": -9,
+      "w": 24,
+      "h": 21,
+      "rotation": 0,
+      "color": "#151313",
+      "shape": "frayed",
+      "seed": 24,
+      "note": "Kruppe & Oberschenkel"
+    }
+  ],
+  "extras": {
+    "braids": true,
+    "longTail": true,
+    "horn": false
+  },
+  "shading": 0.55
+}

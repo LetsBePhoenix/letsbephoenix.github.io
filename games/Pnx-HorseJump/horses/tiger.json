@@ -1,0 +1,27 @@
+{
+  "id": "tiger",
+  "name": "Tigerschecke",
+  "price": 2200,
+  "description": "Heller Tigerschecke mit dunklen Tupfen.",
+  "colors": {
+    "coat": "#ece6da",
+    "mane": "#3a2a22"
+  },
+  "face": "snip",
+  "legs": {
+    "socks": "none",
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "spots",
+    "color": "#3a2a22"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "schecke",
+  "name": "Schecke",
+  "price": 1700,
+  "description": "Brauner Plattenschecke mit weißen Platten und Laterne.",
+  "colors": {
+    "coat": "#5b3220",
+    "mane": "#f1ead8"
+  },
+  "face": "bald",
+  "legs": {
+    "socks": "all",
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "none"
+  },
+  "regions": {},
+  "marks": [
+    {
+      "x": -20,
+      "y": 6,
+      "w": 32,
+      "h": 26,
+      "rotation": 6,
+      "color": "#f3ede0",
+      "shape": "blob",
+      "seed": 11,
+      "note": "Rumpf hinten"
+    },
+    {
+      "x": 10,
+      "y": -3,
+      "w": 22,
+      "h": 24,
+      "rotation": 0,
+      "color": "#f3ede0",
+      "shape": "wavy",
+      "seed": 12,
+      "note": "Rumpf vorne"
+    },
+    {
+      "x": 33,
+      "y": -27,
+      "w": 16,
+      "h": 26,
+      "rotation": 29,
+      "color": "#f3ede0",
+      "shape": "wavy",
+      "seed": 13,
+      "note": "Hals"
+    },
+    {
+      "x": -40,
+      "y": -8,
+      "w": 14,
+      "h": 18,
+      "rotation": 0,
+      "color": "#f3ede0",
+      "shape": "blob",
+      "seed": 14,
+      "note": "Kruppe"
+    }
+  ],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}

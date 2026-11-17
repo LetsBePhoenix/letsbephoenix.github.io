@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "horses": [
+    "fuchs.json",
+    "lesley.json",
+    "brauner.json",
+    "rappe.json",
+    "schimmel.json",
+    "falbe.json",
+    "palomino.json",
+    "schecke.json",
+    "tinker.json",
+    "tiger.json",
+    "zebra.json",
+    "einhorn.json"
+  ],
+  "format": {
+    "id": "eindeutiger Name (Kleinbuchstaben), z. B. \"tinker\"",
+    "name": "Anzeigename im Stall",
+    "price": "Preis in Punkten (0 = gratis)",
+    "description": "kurze Beschreibung (optional)",
+    "colors": "coat (Fell), mane (Mähne), mane2 (2. Mähnenfarbe, optional), tail, tailTip, hoof, ear – alle als #rrggbb, leer/fehlend = automatisch",
+    "face": "none | star | blaze | wideblaze | bald | snip",
+    "legs": "socks: none | front | hind | all oder {\"fn\":true,\"ff\":false,\"hn\":true,\"hf\":false} (fn/ff = vorne nah/fern, hn/hf = hinten nah/fern); dark: dunkle Unterbeine; feather: Fesselbehang",
+    "pattern": "{\"type\": none | dapple | spots | stripe | zebra, \"color\": \"#rrggbb\"}",
+    "regions": "{\"head\": \"#rrggbb\", \"neck\": \"#rrggbb\"} – eigene Farbe für Kopf/Hals",
+    "marks": "Liste von Flecken: x, y (Mittelpunkt; 0|0 = Rumpfmitte, x nach rechts = Richtung Kopf, y negativ = oben), w, h (Breite/Höhe), rotation (Grad), color, shape (oval | wavy | frayed | blob), seed (Zahl für die Randform), note (optional). Flecken gelten auch für Ohren (ca. x 39–52, y −56 bis −71) und Beine: was im Stand unterhalb des Rumpfs liegt (y bis ca. 45), landet auf dem Bein und bewegt sich mit. Vorderbeine stehen bei x ≈ 22–28, Hinterbeine bei x ≈ −30 bis −24.",
+    "extras": "braids (Zöpfe), longTail (langer Schweif), horn (Einhorn-Horn)",
+    "shading": "Stärke der Schattierung 0–1 (optional, Standard 1)",
+    "paintImage": "optional: gemalte Ebene als PNG-Datei im Ordner horses/ (z. B. \"lesley.png\") oder als data:-URL – 468×396 Pixel, 3 Pixel pro Einheit, linke obere Ecke = Pferde-Koordinate (−72|−80)",
+    "rarity": "optional: start | common | rare | epic | legend (sonst automatisch nach Preis)"
+  }
+}

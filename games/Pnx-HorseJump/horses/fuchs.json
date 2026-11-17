@@ -1,0 +1,26 @@
+{
+  "id": "fuchs",
+  "name": "Fuchs",
+  "price": 0,
+  "description": "Klassischer Fuchs mit Blesse – das Startpferd.",
+  "colors": {
+    "coat": "#8a4b2a",
+    "mane": "#4a2414"
+  },
+  "face": "blaze",
+  "legs": {
+    "socks": "none",
+    "dark": false,
+    "feather": false
+  },
+  "pattern": {
+    "type": "none"
+  },
+  "regions": {},
+  "marks": [],
+  "extras": {
+    "braids": false,
+    "longTail": false,
+    "horn": false
+  }
+}
